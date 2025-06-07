@@ -1,10 +1,11 @@
 # The local repo for this build is located on the Windows file system.
 
-The local repo folder adress is: 
+The local repo is located here: 
+
 D:\code09\40_ref\jph\bna\BNA-IT-Helpdesk-Build-0000\BNA-IT-Helpdesk-Build-0000
 
 
-# Vanilla JavaScript App
+## Vanilla JavaScript App
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
 
