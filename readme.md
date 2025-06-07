@@ -1,9 +1,15 @@
-# The local repo for this build is located on the Windows file system.
+# About BNA-IT-Helpdesk-Build-0000
 
-The local repo is located here: 
+A static Web Site project using the [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) template repo 
+to quickly build basic static web sites.
 
+The main purpose of the project is to make and maintain a series of builds, to test and learn from different kinds of 
+setups and configurations.
+
+This spesific build uses a local repo on the Windows file system, and is located here:  
 D:\code09\40_ref\jph\bna\BNA-IT-Helpdesk-Build-0000\BNA-IT-Helpdesk-Build-0000
 
+Other Builds will be located on the Wsl subsystem for Windows.
 
 ## Vanilla JavaScript App
 
